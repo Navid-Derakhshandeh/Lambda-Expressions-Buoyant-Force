@@ -1,0 +1,13 @@
+C:\Users\N.D\Desktop\Test4\Lambda Expressions Buoyant Force\Lambda Expressions Buoyant Force\bin\Debug\netcoreapp3.1\Lambda Expressions Buoyant Force.exe
+C:\Users\N.D\Desktop\Test4\Lambda Expressions Buoyant Force\Lambda Expressions Buoyant Force\bin\Debug\netcoreapp3.1\Lambda Expressions Buoyant Force.deps.json
+C:\Users\N.D\Desktop\Test4\Lambda Expressions Buoyant Force\Lambda Expressions Buoyant Force\bin\Debug\netcoreapp3.1\Lambda Expressions Buoyant Force.runtimeconfig.json
+C:\Users\N.D\Desktop\Test4\Lambda Expressions Buoyant Force\Lambda Expressions Buoyant Force\bin\Debug\netcoreapp3.1\Lambda Expressions Buoyant Force.runtimeconfig.dev.json
+C:\Users\N.D\Desktop\Test4\Lambda Expressions Buoyant Force\Lambda Expressions Buoyant Force\bin\Debug\netcoreapp3.1\Lambda Expressions Buoyant Force.dll
+C:\Users\N.D\Desktop\Test4\Lambda Expressions Buoyant Force\Lambda Expressions Buoyant Force\bin\Debug\netcoreapp3.1\Lambda Expressions Buoyant Force.pdb
+C:\Users\N.D\Desktop\Test4\Lambda Expressions Buoyant Force\Lambda Expressions Buoyant Force\obj\Debug\netcoreapp3.1\Lambda Expressions Buoyant Force.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\Test4\Lambda Expressions Buoyant Force\Lambda Expressions Buoyant Force\obj\Debug\netcoreapp3.1\Lambda Expressions Buoyant Force.AssemblyInfoInputs.cache
+C:\Users\N.D\Desktop\Test4\Lambda Expressions Buoyant Force\Lambda Expressions Buoyant Force\obj\Debug\netcoreapp3.1\Lambda Expressions Buoyant Force.AssemblyInfo.cs
+C:\Users\N.D\Desktop\Test4\Lambda Expressions Buoyant Force\Lambda Expressions Buoyant Force\obj\Debug\netcoreapp3.1\Lambda Expressions Buoyant Force.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\Test4\Lambda Expressions Buoyant Force\Lambda Expressions Buoyant Force\obj\Debug\netcoreapp3.1\Lambda Expressions Buoyant Force.dll
+C:\Users\N.D\Desktop\Test4\Lambda Expressions Buoyant Force\Lambda Expressions Buoyant Force\obj\Debug\netcoreapp3.1\Lambda Expressions Buoyant Force.pdb
+C:\Users\N.D\Desktop\Test4\Lambda Expressions Buoyant Force\Lambda Expressions Buoyant Force\obj\Debug\netcoreapp3.1\Lambda Expressions Buoyant Force.genruntimeconfig.cache
